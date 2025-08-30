@@ -3,12 +3,10 @@ A game developed using OpenGL.
 
 ---
 ## Main
-![main](assets/puyo_main.gif)
+<img src="assets/puyo_main" width="300" alt="main">
 
----
 ## Play
-![play](assets/puyo_play.gif)
+<img src="assets/puyo_play" width="300" alt="play">
 
----
 ## Ranking
-![rank](assets/puyo_rank.gif)
+<img src="assets/puyo_rank" width="300" alt="rank">
