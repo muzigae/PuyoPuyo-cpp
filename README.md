@@ -1,2 +1,14 @@
-# PuyoPuyo-cpp
-OpenGL Project for SNU ECE Programming Methodology (430.211)
+# Puyo Puyo in C++
+A game developed using OpenGL.
+
+---
+## Main
+![main](assets/puyo_main.gif)
+
+---
+## Play
+![play](assets/puyo_play.gif)
+
+---
+## Ranking
+![rank](assets/puyo_rank.gif)
